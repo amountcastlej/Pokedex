@@ -1,0 +1,85 @@
+* {
+    margin: 0px auto; 
+    padding: 0px;
+    font-family: arial;
+}
+
+.wrapper {
+    width: 1000px;
+    padding: 5px 10px;
+    background-color: rgb(17, 161, 238);
+}
+
+#header {
+    background-color: rgba(255, 255, 255, 0.5);
+    height: 100px;
+    width: 950px;
+    padding: 32px 25px;
+}
+
+.logoImg {
+    background-color:rgb(33, 159, 204); 
+}
+
+.playNice{
+    display: inline-block;
+}
+
+.rightP {
+    color: rgb(209, 61, 228);
+    font-size: 46px;
+    font-weight: bold;
+    vertical-align: top;
+    margin-left: 500px;
+    margin-top: 15px;
+}
+.main {
+    margin: 0px auto;
+    width: 950px;
+    padding: 30px 25px;
+}
+
+#pokemon {
+    width: 500px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+#pokedex {
+    width: 250px;
+    display: inline-block;
+    border-style: solid;
+    border-width: 15px;
+    border-bottom: 30px solid lightgray;
+    border-color: lightgray;
+    border-radius: 10px;
+    vertical-align: top;
+    height: 450px;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 10px;
+    color: white;
+}
+
+h4 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+ul {
+    list-style-position: inside;
+    margin-left: 20px;
+    color: white;
+}
+
+html {
+    color: white;
+}
